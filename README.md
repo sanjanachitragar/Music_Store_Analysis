@@ -54,7 +54,7 @@ This project involves the analysis of a music store database using SQL queries t
 
 1. **Database Setup**: Ensure you have the database set up with the required tables and data. The database schema and sample data should be provided separately.
 
-2. **SQL Queries**: Each task corresponds to a specific SQL query. You can run these queries using your preferred SQL client or database management tool.
+2. **SQL Queries**: Each task corresponds to a specific SQL query. You can run these queries using your preferred SQL client or database management tool or PostgreSQL 15.
 
 3. **Results and Insights**: Review the results of each query to gain insights into the music store data. The queries are designed to answer specific questions and provide relevant data.
 
